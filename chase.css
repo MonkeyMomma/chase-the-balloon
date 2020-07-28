@@ -4,6 +4,7 @@
 
 .balloongame {
   height: 400px;
+  width: 100%;
   background-color: #d3d3d3;
   border-style: solid;
   border-radius: 5%;
