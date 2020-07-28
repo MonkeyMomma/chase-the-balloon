@@ -28,6 +28,7 @@ heroImage.onload = function () {
   heroReady = true;
 };
 heroImage.src = "img/hero.png";
+
 // Load the monster image
 var monsterReady = false;
 var monsterImage = new Image();
@@ -35,13 +36,15 @@ monsterImage.onload = function () {
   // show the monster image
   monsterReady = true;
 };
-monsterImage.src = "img/starballoon.png";
+monsterImage.src = "img/monster.png";
+
 // Create the game objects
 var hero = {
   speed: 256 // movement speed of hero in pixels per second
 };
 var monster = {};
 var monstersCaught = 0;
+
 // Handle keyboard controls
 var keysDown = {};
 // Check for keys pressed where key represents the keycode captured
@@ -51,6 +54,10 @@ addEventListener("keydown", function (key) {
 addEventListener("keyup", function (key) {
   delete keysDown[key.keyCode];
 }, false);
+
+//Handle Mouse controls
+//need to add mouseclick controls here
+
 // Reset the player and monster positions when player catches a monster
 var reset = function () {
   // Reset player's position to centre of canvas
