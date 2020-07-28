@@ -23,8 +23,11 @@ The Star Balloon image referenced in the code is my digital creation. It will no
 <img src="img/pkfavicon.png" alt="Phidget_Kitty Favicon" width="50"/>
 Favicon image and Monkey Momma Creations Logo imagery Copyright Monkey Momma Creations. Images designed and created by Phidget_Kitty for use by and collaboration with Karin M. Davis, dba Monkey Momma Creations only. [Phidget_Kitty YouTube](https://www.youtube.com/channel/UCWpxuUq477sZjK5yXQiV5xg)
 
+
+
 <img src="img/JackBurtonFaviCon.png" alt="HvyD's Favicon" width="50"/>
 Data Engineering and IT Solutions Support brought to you by [Scott W. Davis](https://www.hvyd.us)
+
 
 Sea Turtle Photo by [Ralph Kiesewetter](https://freeimages.com/photographer/macleod-34929)
 
