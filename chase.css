@@ -2,17 +2,6 @@
   height: 600px;
 }
 
-.balloongame {
-  height: 400px;
-  width: 100%;
-  background-color: #d3d3d3;
-  border-style: solid;
-  border-radius: 5%;
-  border-width: thick;
-  border-color: #000080;
-}
-
-
 h1 {
   font-family: 'Ranchers', sans-serif;
   font-size: 500%;
@@ -48,4 +37,13 @@ p {
   font-size:20px;
   font-family: 'Roboto', Arial, sans-serif;
   text-align: center;
+}
+
+canvas {
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+  border-width:medium;
+  border-radius: 20px;
 }
