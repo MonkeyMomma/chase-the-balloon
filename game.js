@@ -36,7 +36,7 @@ monsterImage.onload = function () {
   // show the monster image
   monsterReady = true;
 };
-monsterImage.src = "img/monster.png";
+monsterImage.src = "img/starballoon.png";
 
 // Create the game objects
 var hero = {
@@ -56,7 +56,7 @@ addEventListener("keyup", function (key) {
 }, false);
 
 //Handle Mouse controls
-//need to add mouseclick controls here
+
 
 // Reset the player and monster positions when player catches a monster
 var reset = function () {
